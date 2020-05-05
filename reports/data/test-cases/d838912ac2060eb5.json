@@ -1,0 +1,105 @@
+{
+  "uid" : "d838912ac2060eb5",
+  "name" : "Browse acutesttraining PUBLICA‌-1 issue (should fail)",
+  "historyId" : "0e50e914c2b6d29f5dd9f0359e0853ae",
+  "time" : {
+    "start" : 1588688931482,
+    "stop" : 1588688931483,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "skipped",
+    "steps" : [ {
+      "name" : "Given the Jira Cloud instance acutesttraining has a publicly accessible project with issuekey \"PUBLICA‌-1\"",
+      "time" : {
+        "start" : 1588688931483,
+        "stop" : 1588688931483,
+        "duration" : 0
+      },
+      "status" : "skipped",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "When CDAF test visits the url \"https://acutesttraining.atlassian.net/browse/PUBLICA-1?oldIssueView=true\" without logging in",
+      "time" : {
+        "start" : 1588688931483,
+        "stop" : 1588688931483,
+        "duration" : 0
+      },
+      "status" : "skipped",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Then the page title is \"Sample issue XXXXXXXX\"",
+      "time" : {
+        "start" : 1588688931483,
+        "stop" : 1588688931483,
+        "duration" : 0
+      },
+      "status" : "skipped",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 3,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "tag",
+    "value" : "build-test"
+  }, {
+    "name" : "tag",
+    "value" : "should-fail"
+  }, {
+    "name" : "tag",
+    "value" : "web"
+  }, {
+    "name" : "feature",
+    "value" : "Webdriver PUBLICA browser tests"
+  }, {
+    "name" : "framework",
+    "value" : "behave"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "build-test", "web", "should-fail" ]
+  },
+  "source" : "d838912ac2060eb5.json",
+  "parameterValues" : [ ]
+}

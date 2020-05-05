@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue May 05 15:41:31 BST 2020","Tue May 05 15:41:34 BST 2020","2725","","","","","","Browse acutesttraining PUBLICA‌-1 issue",""
+"skipped","Tue May 05 15:41:34 BST 2020","Tue May 05 15:41:34 BST 2020","1","","","","","","Browse acutesttraining PUBLICA‌-1 issue (should fail)",""
