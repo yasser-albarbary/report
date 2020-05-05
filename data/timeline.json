@@ -1,0 +1,187 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "Browse acutesttraining PUBLICA‌-1 issue (should fail)",
+    "uid" : "3120e59277c488b1",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1588692612215,
+      "stop" : 1588692612216,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Browse acutesttraining PUBLICA‌-1 issue (should fail)",
+    "uid" : "5d30d6e69e1da49d",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1588689694511,
+      "stop" : 1588689694512,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Browse acutesttraining PUBLICA‌-1 issue",
+    "uid" : "ade76e8b84e8ce14",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1588688927486,
+      "stop" : 1588688931479,
+      "duration" : 3993
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Browse acutesttraining PUBLICA‌-1 issue (should fail)",
+    "uid" : "71d83f32121545e8",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1588687197890,
+      "stop" : 1588687199912,
+      "duration" : 2022
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Browse acutesttraining PUBLICA‌-1 issue (should fail)",
+    "uid" : "bf5d3baf18cc2335",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1588691555913,
+      "stop" : 1588691555914,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Browse acutesttraining PUBLICA‌-1 issue",
+    "uid" : "20afb5038ac93bab",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1588687165853,
+      "stop" : 1588687168543,
+      "duration" : 2690
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Browse acutesttraining PUBLICA‌-1 issue",
+    "uid" : "168bb0a5ce814a1a",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1588687194454,
+      "stop" : 1588687197888,
+      "duration" : 3434
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Browse acutesttraining PUBLICA‌-1 issue",
+    "uid" : "5a04ad7e6d2fd63d",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1588687500667,
+      "stop" : 1588687504455,
+      "duration" : 3788
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Browse acutesttraining PUBLICA‌-1 issue",
+    "uid" : "b969b8078ce0b750",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1588691551948,
+      "stop" : 1588691555911,
+      "duration" : 3963
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Browse acutesttraining PUBLICA‌-1 issue (should fail)",
+    "uid" : "c0e71aecaca9ca6",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1588687168546,
+      "stop" : 1588687169960,
+      "duration" : 1414
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Browse acutesttraining PUBLICA‌-1 issue",
+    "uid" : "367202da33c2b674",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1588692609141,
+      "stop" : 1588692612214,
+      "duration" : 3073
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Browse acutesttraining PUBLICA‌-1 issue (should fail)",
+    "uid" : "7c76a88c6847b37b",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1588688931482,
+      "stop" : 1588688931483,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Browse acutesttraining PUBLICA‌-1 issue (should fail)",
+    "uid" : "969bd4cba965883b",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "failed",
+    "time" : {
+      "start" : 1588687504458,
+      "stop" : 1588687505839,
+      "duration" : 1381
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Browse acutesttraining PUBLICA‌-1 issue",
+    "uid" : "c5d787922ecb2cb1",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1588689691785,
+      "stop" : 1588689694510,
+      "duration" : 2725
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  } ]
+}
