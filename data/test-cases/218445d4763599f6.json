@@ -1,0 +1,203 @@
+{
+  "uid" : "218445d4763599f6",
+  "name" : "Browse acutesttraining PUBLICA‌-1 issue",
+  "historyId" : "c0fc1466010abe89b85e6525510b3ff1",
+  "time" : {
+    "start" : 1588753301597,
+    "stop" : 1588753305080,
+    "duration" : 3483
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given the Jira Cloud instance acutesttraining has a publicly accessible project with issuekey \"PUBLICA‌-1\"",
+      "time" : {
+        "start" : 1588753301598,
+        "stop" : 1588753301598,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "When CDAF test visits the url \"https://acutesttraining.atlassian.net/browse/PUBLICA-1?oldIssueView=true\" without logging in",
+      "time" : {
+        "start" : 1588753301598,
+        "stop" : 1588753305048,
+        "duration" : 3450
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "Then the page title is \"Sample issue 20180615T1711\"",
+      "time" : {
+        "start" : 1588753305048,
+        "stop" : 1588753305080,
+        "duration" : 32
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 3
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "tag",
+    "value" : "build-test"
+  }, {
+    "name" : "tag",
+    "value" : "pass"
+  }, {
+    "name" : "tag",
+    "value" : "web"
+  }, {
+    "name" : "feature",
+    "value" : "Webdriver PUBLICA browser tests"
+  }, {
+    "name" : "framework",
+    "value" : "behave"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "9a0d12d5e3a20ce0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588752907474,
+        "stop" : 1588752912093,
+        "duration" : 4619
+      }
+    }, {
+      "uid" : "484760b936fae676",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588694472954,
+        "stop" : 1588694476514,
+        "duration" : 3560
+      }
+    }, {
+      "uid" : "68759f091eea7b2b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588694097520,
+        "stop" : 1588694101443,
+        "duration" : 3923
+      }
+    }, {
+      "uid" : "3cd28103d541c390",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588693528012,
+        "stop" : 1588693530377,
+        "duration" : 2365
+      }
+    }, {
+      "uid" : "5154997de370a7c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588692979711,
+        "stop" : 1588692982251,
+        "duration" : 2540
+      }
+    }, {
+      "uid" : "4ffbfdbcb9ebec01",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588692609141,
+        "stop" : 1588692612214,
+        "duration" : 3073
+      }
+    }, {
+      "uid" : "3629f318c43941f8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588691551948,
+        "stop" : 1588691555911,
+        "duration" : 3963
+      }
+    }, {
+      "uid" : "e921293549165b35",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588689691785,
+        "stop" : 1588689694510,
+        "duration" : 2725
+      }
+    }, {
+      "uid" : "f6a60277a0108887",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588688927486,
+        "stop" : 1588688931479,
+        "duration" : 3993
+      }
+    }, {
+      "uid" : "a446e75b943bcf0b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588687500667,
+        "stop" : 1588687504455,
+        "duration" : 3788
+      }
+    }, {
+      "uid" : "c29babe37bbb72a3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588687194454,
+        "stop" : 1588687197888,
+        "duration" : 3434
+      }
+    }, {
+      "uid" : "cc9af2b06214984e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588687165853,
+        "stop" : 1588687168543,
+        "duration" : 2690
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ "build-test", "pass", "web" ]
+  },
+  "source" : "218445d4763599f6.json",
+  "parameterValues" : [ ]
+}
