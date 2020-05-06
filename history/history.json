@@ -9,7 +9,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "156c76082e36a31f",
+      "uid" : "75037abb40ad6042",
       "status" : "failed",
       "statusDetails" : "AssertionError: 'Sample issue 20180615T1711' != 'Sample issue XXXXXXXX'\n- Sample issue 20180615T1711\n+ Sample issue XXXXXXXX\n\n",
       "time" : {
@@ -29,7 +29,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "218445d4763599f6",
+      "uid" : "93190e7eaa947aee",
       "status" : "passed",
       "time" : {
         "start" : 1588753301597,

@@ -5,7 +5,7 @@
     "name" : "Webdriver PUBLICA browser tests",
     "children" : [ {
       "name" : "Browse acutesttraining PUBLICA‌-1 issue",
-      "uid" : "218445d4763599f6",
+      "uid" : "93190e7eaa947aee",
       "parentUid" : "bcaa081652bacc4039ffadc56ce5b29b",
       "status" : "passed",
       "time" : {
@@ -18,7 +18,7 @@
       "parameters" : [ ]
     }, {
       "name" : "Browse acutesttraining PUBLICA‌-1 issue (should fail)",
-      "uid" : "156c76082e36a31f",
+      "uid" : "75037abb40ad6042",
       "parentUid" : "bcaa081652bacc4039ffadc56ce5b29b",
       "status" : "failed",
       "time" : {

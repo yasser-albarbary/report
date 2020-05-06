@@ -3,7 +3,7 @@
   "name" : "packages",
   "children" : [ {
     "name" : "Browse acutesttraining PUBLICA‌-1 issue",
-    "uid" : "218445d4763599f6",
+    "uid" : "93190e7eaa947aee",
     "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
     "status" : "passed",
     "time" : {
@@ -16,7 +16,7 @@
     "parameters" : [ ]
   }, {
     "name" : "Browse acutesttraining PUBLICA‌-1 issue (should fail)",
-    "uid" : "156c76082e36a31f",
+    "uid" : "75037abb40ad6042",
     "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
     "status" : "failed",
     "time" : {
