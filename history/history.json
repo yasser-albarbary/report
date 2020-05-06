@@ -9,13 +9,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "75037abb40ad6042",
+      "uid" : "f38dda87bbec88be",
       "status" : "failed",
       "statusDetails" : "AssertionError: 'Sample issue 20180615T1711' != 'Sample issue XXXXXXXX'\n- Sample issue 20180615T1711\n+ Sample issue XXXXXXXX\n\n",
       "time" : {
-        "start" : 1588753305080,
-        "stop" : 1588753306389,
-        "duration" : 1309
+        "start" : 1588755463606,
+        "stop" : 1588755465050,
+        "duration" : 1444
       }
     } ]
   },
@@ -29,12 +29,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "93190e7eaa947aee",
+      "uid" : "6f78c219ad062d92",
       "status" : "passed",
       "time" : {
-        "start" : 1588753301597,
-        "stop" : 1588753305080,
-        "duration" : 3483
+        "start" : 1588755460724,
+        "stop" : 1588755463604,
+        "duration" : 2880
       }
     } ]
   }
