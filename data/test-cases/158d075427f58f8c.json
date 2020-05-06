@@ -1,0 +1,171 @@
+{
+  "uid" : "158d075427f58f8c",
+  "name" : "Browse acutesttraining PUBLICA‌-1 issue",
+  "historyId" : "c0fc1466010abe89b85e6525510b3ff1",
+  "time" : {
+    "start" : 1588766520925,
+    "stop" : 1588766525776,
+    "duration" : 4851
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given the Jira Cloud instance acutesttraining has a publicly accessible project with issuekey \"PUBLICA‌-1\"",
+      "time" : {
+        "start" : 1588766520927,
+        "stop" : 1588766520927,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "When CDAF test visits the url \"https://acutesttraining.atlassian.net/browse/PUBLICA-1?oldIssueView=true\" without logging in",
+      "time" : {
+        "start" : 1588766520928,
+        "stop" : 1588766525727,
+        "duration" : 4799
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Then the page title is \"Sample issue 20180615T1711\"",
+      "time" : {
+        "start" : 1588766525727,
+        "stop" : 1588766525776,
+        "duration" : 49
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 3,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "tag",
+    "value" : "build-test"
+  }, {
+    "name" : "tag",
+    "value" : "pass"
+  }, {
+    "name" : "tag",
+    "value" : "web"
+  }, {
+    "name" : "feature",
+    "value" : "Webdriver PUBLICA browser tests"
+  }, {
+    "name" : "framework",
+    "value" : "behave"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "6617c15db56d2d86",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588764976649,
+        "stop" : 1588764984115,
+        "duration" : 7466
+      }
+    }, {
+      "uid" : "26e95ff9eda3bdfc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588764541886,
+        "stop" : 1588764547382,
+        "duration" : 5496
+      }
+    }, {
+      "uid" : "d393fd1658dcfab7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588764103013,
+        "stop" : 1588764107371,
+        "duration" : 4358
+      }
+    }, {
+      "uid" : "f0a8d7f6244f5ba7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588764060511,
+        "stop" : 1588764065925,
+        "duration" : 5414
+      }
+    }, {
+      "uid" : "7391150029023680",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588763358431,
+        "stop" : 1588763363644,
+        "duration" : 5213
+      }
+    }, {
+      "uid" : "6284c7bf27e551e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588763090166,
+        "stop" : 1588763095834,
+        "duration" : 5668
+      }
+    }, {
+      "uid" : "8a7f3b9f8e266fb6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588762944469,
+        "stop" : 1588762948854,
+        "duration" : 4385
+      }
+    }, {
+      "uid" : "d58b8077f128b89",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588762465651,
+        "stop" : 1588762473320,
+        "duration" : 7669
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ "build-test", "pass", "web" ]
+  },
+  "source" : "158d075427f58f8c.json",
+  "parameterValues" : [ ]
+}

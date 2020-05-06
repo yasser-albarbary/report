@@ -7,13 +7,13 @@
       "name" : "AssertionError: 'Sample issue 20180615T1711' != 'Sample issue XXXXXXXX'\n- Sample issue 20180615T1711\n+ Sample issue XXXXXXXX\n\n",
       "children" : [ {
         "name" : "Browse acutesttraining PUBLICA‌-1 issue (should fail)",
-        "uid" : "f38dda87bbec88be",
+        "uid" : "d9677136d88ab76b",
         "parentUid" : "3d32da0208e8b89a178cc142c041cf32",
         "status" : "failed",
         "time" : {
-          "start" : 1588755463606,
-          "stop" : 1588755465050,
-          "duration" : 1444
+          "start" : 1588766525777,
+          "stop" : 1588766528456,
+          "duration" : 2679
         },
         "flaky" : false,
         "newFailed" : false,
