@@ -1,21 +1,21 @@
 [ {
-  "uid" : "53821da4cd91e84",
-  "name" : "Browse acutesttraining PUBLICA‌-1 issue (should fail)",
-  "time" : {
-    "start" : 1588863865449,
-    "stop" : 1588863867787,
-    "duration" : 2338
-  },
-  "status" : "failed",
-  "severity" : "normal"
-}, {
-  "uid" : "c357e5856cf96f41",
+  "uid" : "888180475a4f07b2",
   "name" : "Browse acutesttraining PUBLICA‌-1 issue",
   "time" : {
-    "start" : 1588863859703,
-    "stop" : 1588863865449,
-    "duration" : 5746
+    "start" : 1588866394752,
+    "stop" : 1588866399868,
+    "duration" : 5116
   },
   "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ad5946f52d2287b",
+  "name" : "Browse acutesttraining PUBLICA‌-1 issue (should fail)",
+  "time" : {
+    "start" : 1588866399869,
+    "stop" : 1588866399871,
+    "duration" : 2
+  },
+  "status" : "skipped",
   "severity" : "normal"
 } ]
