@@ -1,3 +1,3 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Thu May 07 14:12:51 GMT 2020","Thu May 07 14:12:58 GMT 2020","7243","","","","","","Browse acutesttraining PUBLICA‌-1 issue",""
-"skipped","Thu May 07 14:12:58 GMT 2020","Thu May 07 14:12:58 GMT 2020","0","","","","","","Browse acutesttraining PUBLICA‌-1 issue (should fail)",""
+"passed","Thu May 07 14:14:10 GMT 2020","Thu May 07 14:14:16 GMT 2020","6720","","","","","","Browse acutesttraining PUBLICA‌-1 issue",""
+"skipped","Thu May 07 14:14:16 GMT 2020","Thu May 07 14:14:17 GMT 2020","1","","","","","","Browse acutesttraining PUBLICA‌-1 issue (should fail)",""
