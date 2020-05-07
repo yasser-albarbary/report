@@ -1,21 +1,20 @@
 {
   "0e50e914c2b6d29f5dd9f0359e0853ae" : {
     "statistic" : {
-      "failed" : 1,
+      "failed" : 0,
       "broken" : 0,
-      "skipped" : 0,
+      "skipped" : 1,
       "passed" : 0,
       "unknown" : 0,
       "total" : 1
     },
     "items" : [ {
-      "uid" : "d9677136d88ab76b",
-      "status" : "failed",
-      "statusDetails" : "AssertionError: 'Sample issue 20180615T1711' != 'Sample issue XXXXXXXX'\n- Sample issue 20180615T1711\n+ Sample issue XXXXXXXX\n\n",
+      "uid" : "c682964cd21b4af6",
+      "status" : "skipped",
       "time" : {
-        "start" : 1588766525777,
-        "stop" : 1588766528456,
-        "duration" : 2679
+        "start" : 1588860778759,
+        "stop" : 1588860778759,
+        "duration" : 0
       }
     } ]
   },
@@ -29,12 +28,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "158d075427f58f8c",
+      "uid" : "3057c3c9788065b1",
       "status" : "passed",
       "time" : {
-        "start" : 1588766520925,
-        "stop" : 1588766525776,
-        "duration" : 4851
+        "start" : 1588860771515,
+        "stop" : 1588860778758,
+        "duration" : 7243
       }
     } ]
   }

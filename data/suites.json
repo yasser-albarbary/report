@@ -3,26 +3,26 @@
   "name" : "suites",
   "children" : [ {
     "name" : "Browse acutesttraining PUBLICA‌-1 issue",
-    "uid" : "158d075427f58f8c",
+    "uid" : "3057c3c9788065b1",
     "parentUid" : "98d3104e051c652961429bf95fa0b5d6",
     "status" : "passed",
     "time" : {
-      "start" : 1588766520925,
-      "stop" : 1588766525776,
-      "duration" : 4851
+      "start" : 1588860771515,
+      "stop" : 1588860778758,
+      "duration" : 7243
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "Browse acutesttraining PUBLICA‌-1 issue (should fail)",
-    "uid" : "d9677136d88ab76b",
+    "uid" : "c682964cd21b4af6",
     "parentUid" : "98d3104e051c652961429bf95fa0b5d6",
-    "status" : "failed",
+    "status" : "skipped",
     "time" : {
-      "start" : 1588766525777,
-      "stop" : 1588766528456,
-      "duration" : 2679
+      "start" : 1588860778759,
+      "stop" : 1588860778759,
+      "duration" : 0
     },
     "flaky" : false,
     "newFailed" : false,
