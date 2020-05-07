@@ -4,9 +4,9 @@
     "uid" : "bcaa081652bacc4039ffadc56ce5b29b",
     "name" : "Webdriver PUBLICA browser tests",
     "statistic" : {
-      "failed" : 0,
+      "failed" : 1,
       "broken" : 0,
-      "skipped" : 1,
+      "skipped" : 0,
       "passed" : 1,
       "unknown" : 0,
       "total" : 2
