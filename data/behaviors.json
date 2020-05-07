@@ -5,26 +5,26 @@
     "name" : "Webdriver PUBLICA browser tests",
     "children" : [ {
       "name" : "Browse acutesttraining PUBLICA‌-1 issue",
-      "uid" : "2cac7f4238eadf8d",
+      "uid" : "ccede16909d27ccc",
       "parentUid" : "bcaa081652bacc4039ffadc56ce5b29b",
       "status" : "passed",
       "time" : {
-        "start" : 1588860951441,
-        "stop" : 1588860957859,
-        "duration" : 6418
+        "start" : 1588861132779,
+        "stop" : 1588861137682,
+        "duration" : 4903
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
     }, {
       "name" : "Browse acutesttraining PUBLICA‌-1 issue (should fail)",
-      "uid" : "fa0938f1cb188b6",
+      "uid" : "2e65afed1c04e768",
       "parentUid" : "bcaa081652bacc4039ffadc56ce5b29b",
       "status" : "skipped",
       "time" : {
-        "start" : 1588860957861,
-        "stop" : 1588860957863,
-        "duration" : 2
+        "start" : 1588861137683,
+        "stop" : 1588861137684,
+        "duration" : 1
       },
       "flaky" : false,
       "newFailed" : false,
